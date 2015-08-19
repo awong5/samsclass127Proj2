@@ -1,9 +1,9 @@
 # samsclass127Proj2
 
-## Purpose
+>## Purpose
 To develop a very simple buffer overflow exploit in Linux, that alters execution to bypass a password.
 
-This will give you practice with these techniques:
+>This will give you practice with these techniques:
 + Writing very simple C code
 + Compiling with gcc
 + Debugging with gdb
