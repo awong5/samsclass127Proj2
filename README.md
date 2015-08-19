@@ -10,3 +10,6 @@ This will give you practice with these techniques:
 + Understanding the registers $esp, $ebp, and $eip
 + Understanding the structure of the stack
 + Using Python to create simple text patterns
+
+## Credit
+Sam Bowne | City College San Francisco | Computer Networking and Information Technology | E-mail: sbowne@ccsf.edu
